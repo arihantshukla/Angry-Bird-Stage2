@@ -1,2 +1,2 @@
-# Angry-Bird-Stage2
-Adding Image,Inheritance
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
